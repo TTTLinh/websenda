@@ -1,0 +1,43 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+body {
+    box-sizing: border-box;
+    width:400px;
+    margin: auto;
+    background-image: url("../images/iig3.jpeg"); 
+    background-repeat: no-repeat; 
+    background-size: 100% 100%;
+}
+
+a {
+	color: white;
+}
+form{
+    background-color: white; 
+    padding:20px; 
+    margin-left: -50px; 
+    border-radius: 20px;
+}
+input{
+    width: 100%;
+}
+button{
+    width: 100%;
+}
+.login{
+    margin-top: 120px;
+}
+.contain{
+    padding: 10px;
+}
+.contain a{
+    color:black;
+    text-decoration: none;
+}
+.dn{
+    margin-right: 250px;
+}
+.notice{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(10, 8, 6);
+}
